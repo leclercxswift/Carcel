@@ -1,0 +1,36 @@
+body{
+    background-color:#181818;
+    font-family: 'Work Sans', sans-serif;
+    font-size: smaller;
+    color:#F0F6F6;
+}
+header{
+    background-color:#181818;
+}
+.content{
+    padding-top: 3rem;
+}
+.font{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar-brand, .nav-link, .navbar-toggler-icon,.navbar-brand:focus, .nav-link:focus {
+    color:#F0F6F6;
+}
+.navbar-toggler {
+    background-color:#036666; 
+    border-radius: 2px;
+}
+.navbar-brand:hover, .nav-link:hover, .navbar-brand:active, .nav-link:active {
+    color:#99E2B4;
+}
+
+.custom-bar{
+    background-color: #036666;
+}
+.container{
+    max-width: 100%;
+}
+.chul
+{
+    color: #469D89;
+}

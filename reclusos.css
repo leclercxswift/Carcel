@@ -1,0 +1,25 @@
+#add-inmate, .edit{
+    background-color: #14746F;
+    color: #f8f9fa;
+    border: none;
+    border-radius: 0;
+}
+
+.edit:hover{
+    background-color: #99E2B4;
+    color: #101011;
+    border: none;
+    border-radius: 0;
+}
+
+.delete{
+    border: none;
+    border-radius: 0;
+}
+
+#switch-role{
+    background-color: #28dcd3;
+    color: #f8f9fa;
+    border: none;
+    border-radius: 0;
+}

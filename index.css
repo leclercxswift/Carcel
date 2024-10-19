@@ -1,0 +1,30 @@
+
+.presentation{
+    background: url('https://preview.redd.it/svg-for-default-tumbleweed-wallpaper-v0-glwex8uum5ca1.jpg?width=1920&format=pjpg&auto=webp&s=4d94fcb49e72044e45e0aae35bdd22e567c67e2d') no-repeat center center;
+    background-size: cover; 
+    height: 100vh;
+    }
+
+    .presentation .btn{
+    background-color: #99E2B4;
+    color: #101011;
+    font-size: x-large;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+.presentation .btn:hover{
+    background-color: #14746F;
+    color: #f8f9fa;
+}
+.presentation .btn:active{
+    background-color: #036666;
+    color: #f8f9fa;
+}
+
+.back{
+    background-color: #14746F;
+    color: #f8f9fa;
+    border: none;
+    border-radius: 0;
+}
